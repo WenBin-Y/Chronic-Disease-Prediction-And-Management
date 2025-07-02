@@ -7,7 +7,7 @@ This project is part of a university coursework that aimed to utilize predictive
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 <br>
 
----
+#
 ### Dataset Sources
 Chronic Kidney Disease: https://www.kaggle.com/datasets/colearninglounge/chronic-kidney-disease
 
@@ -17,7 +17,7 @@ Dyslipidemia:           https://plos.figshare.com/articles/dataset/Used_dataset_
 
 Hypertension:           https://www.kaggle.com/datasets/prosperchuks/health-dataset
 
----
+#
 ### Approach
 **Part 1: Data Preparation & Cleaning**
 
