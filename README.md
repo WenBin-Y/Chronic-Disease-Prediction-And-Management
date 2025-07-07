@@ -1,24 +1,27 @@
 # Chronic Disease Prediction And Management
-This project is part of a university coursework that aimed to utilize predictive analysis and machine learning to develop models that can predict the likelihood of the occurrence of chronic illnesses in patients, using their existing medical records and other data points.
+
+![Chronic Disease Cover Image](https://github.com/user-attachments/assets/536bb0e1-75be-4b6a-a052-5674e0697689)
+_Image Credit:_ [Annals Singapore](https://annals.edu.sg/healthcare-cost-of-patients-with-multiple-chronic-diseases-in-singapore-public-primary-care-setting/)
+
+Hello 👋🏼
+
+This project is adapted from my one of my previous university coursework. It is a **proof of concept** that utilised machine learning models to predict chronic illnesses in at-risk patients and then recommend diet and physical activity plans to proactively prevent chronic disease development. This project was awarded an **A+ grade**.
 
 ---
-### Programming Language
+### Programming Language: RStudio
 
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 <br>
 
 #
-### Dataset Sources
-Chronic Kidney Disease: https://www.kaggle.com/datasets/colearninglounge/chronic-kidney-disease
+### Understanding This Repository
 
-Diabetes:               https://www.kaggle.com/datasets/prosperchuks/health-dataset
+This repository contains the R files that were used in proving that prediction of 4 types of chronic diseases was achievable to a **high degree of accuracy and recall**. The chronic diseases are: Chronic kidney disease | Diabetes | Dyslipidemia | Hypertension - 4 of the most common types of chronic diseases present in Singapore. 
 
-Dyslipidemia:           https://plos.figshare.com/articles/dataset/Used_dataset_for_dyslipidemia_2020_/13814789
+Should you wish to find out more about the final proof of concept that was proposed, do reach out to me and we can connect via **LinkedIn** 😁
 
-Hypertension:           https://www.kaggle.com/datasets/prosperchuks/health-dataset
+In each dataset, the following approach was taken to wrangle the data and prepare it for model training and evaluation:
 
-#
-### Approach
 **Part 1: Data Preparation & Cleaning**
 
 **Part 2: Data Exploration & Selecting Variables**
@@ -41,3 +44,15 @@ Hypertension:           https://www.kaggle.com/datasets/prosperchuks/health-data
 ------- 3.3 Model 2: CART + Evaluation
 
 ------- 3.4 Model 3: Random Forest + Evaluation
+
+#
+### Dataset Sources
+Chronic Kidney Disease: https://www.kaggle.com/datasets/colearninglounge/chronic-kidney-disease
+
+Diabetes:               https://www.kaggle.com/datasets/prosperchuks/health-dataset
+
+Dyslipidemia:           https://plos.figshare.com/articles/dataset/Used_dataset_for_dyslipidemia_2020_/13814789
+
+Hypertension:           https://www.kaggle.com/datasets/prosperchuks/health-dataset
+
+
